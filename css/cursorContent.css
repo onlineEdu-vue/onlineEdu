@@ -75,6 +75,15 @@
 	font-size:14px;
 	color:rgba(172,172,172,1);
 }
+.studyR p span{
+	line-height: 22px;
+	margin: 5px;
+	padding: 5px;
+	font-size:12px;
+	border-radius: 10px;
+	display: inline-block;
+	background:rgba(240,240,240,1);
+}
 .comp{
 	line-height: 60px;
 	font-size:26px;
